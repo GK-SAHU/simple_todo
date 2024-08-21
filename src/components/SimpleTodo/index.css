@@ -1,0 +1,24 @@
+.todo-container{
+    height: 100vh;
+    background-color:  #ffc2a0;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.todolist-container{
+    background-color: #ffffff;
+    border-radius: 15px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 80%;
+    margin: 10px;
+}
+.heading{
+
+}
+.ul-class{
+    
+}

@@ -1,0 +1,19 @@
+.todo-class{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+
+}
+.title{
+    padding-right: 10px;
+    font-size: 17px;
+    font-family: "Roboto";
+    text-align: left;
+}
+.button{
+    border: 1px solid pink;
+    color: rgb(237, 105, 127);
+    padding: 6px;
+    border-radius: 6px;
+}
